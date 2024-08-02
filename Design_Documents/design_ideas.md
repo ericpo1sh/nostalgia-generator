@@ -15,6 +15,7 @@
 
 ## Prototype
 
-![image](https://file.notion.so/f/f/20c556fe-1bbe-4aa1-ac81-f6997849b729/579b7fa0-bba7-41a1-978c-00b59de18bee/Untitled.png?table=block&id=c96bc709-5f1f-4ac3-8e3b-abf86cedd1d9&spaceId=20c556fe-1bbe-4aa1-ac81-f6997849b729&expirationTimestamp=1722729600000&signature=bWfSm4qI0JsOQnUhnW_Jgvp1X28V78dirZW1Qa8761E&downloadName=Untitled.png)
+<img width="403" alt="Untitled" src="https://github.com/user-attachments/assets/3424fcc0-ef56-412c-82b1-40b4cfffa82a">
+
 
 Initially we decided to go with a more simple design and have one input. Based off of the value of the input, we will extract that information, dynamically send it over to our API and retrieve the corresponding data with that year and send it back with the API to the UI. Our UI will use pagination in order to fit all of the data that we want onto the screen.
